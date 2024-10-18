@@ -2985,9 +2985,11 @@ http://23.88.32.34
 89.187.28.133:443
 91.92.247.158:9090
 
+# Reference: https://x.com/banthisguy9349/status/1846945986435830037
 # Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-22)
 
 http://13.93.69.87
+http://169.1.16.29
 100.42.189.154:443
 146.190.230.162:443
 15.161.134.59:443
@@ -3181,6 +3183,29 @@ http://84.201.150.223
 # Reference: https://www.virustotal.com/gui/ip-address/34.27.109.111/detection
 
 34.27.109.111:443
+
+# Reference: https://x.com/MichalKoczwara/status/1846625221505118382
+# Reference: https://www.virustotal.com/gui/file/c22f0544e29c803d2cacbca3a57617496e3691389e9b65da84c374c90e699433/detection
+
+finances-news.com
+pushservice_api.finances-news.com
+
+# Reference: https://app.validin.com/detail?find=f0003fecc5f9c8c2cbac&type=hash#tab=host_pairs_v2 (# 2024-10-17)
+
+107.172.88.160:443
+13.251.3.88:443
+193.36.15.250:443
+34.123.158.175:443
+43.154.250.187:443
+49.232.86.118:443
+54.173.235.60:443
+agistaging.dev
+he110w0r1d.com
+libreimport.com
+melontech.io
+revshell.party
+ns1.he110w0r1d.com
+update.revshell.party
 
 # Generic
 
