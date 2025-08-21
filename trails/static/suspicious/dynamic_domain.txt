@@ -3808,3 +3808,15 @@ apps.dj
 # Reference: https://www.virustotal.com/gui/domain/pakasak.com/relations
 
 pakasak.com
+
+# Reference: https://www.virustotal.com/gui/domain/dapit.net/relations
+
+dapit.net
+
+# Reference: https://www.virustotal.com/gui/domain/govt.hu/relations
+
+govt.hu
+
+# Reference: https://www.virustotal.com/gui/domain/gurdit.com/relations
+
+gurdit.com
